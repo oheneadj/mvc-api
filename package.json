@@ -1,0 +1,12 @@
+{
+  "name": "day-5",
+  "version": "1.0.0",
+  "description": "MVC API",
+  "main": "index.js",
+  "author": "Ohene Adjei",
+  "license": "MIT",
+  "private": null,
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
